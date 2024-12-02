@@ -17,9 +17,7 @@ public class LivingThing {
     public boolean isDead(){
         return this.dead;
     }
-    public int getAttack(){
-        return this.attack;
-    }
+    
     public String getName(){
         return this.name;
     }
